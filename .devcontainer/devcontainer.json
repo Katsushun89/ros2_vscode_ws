@@ -24,8 +24,8 @@
 	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode",
 
-    "workspaceFolder": "/home/ros2_vscode_ws/",
-    "workspaceMount": "type=bind,source=${localWorkspaceFolder},target=/home/ros2_vscode_ws/"
+    "workspaceFolder": "/home/vscode/ros2_vscode_ws/",
+    "workspaceMount": "type=bind,source=${localWorkspaceFolder},target=/home/vscode/ros2_vscode_ws/"
 
 
 
